@@ -1,0 +1,26 @@
+{
+  "name": "fsexists",
+  "version": "1.0.0",
+  "description": "Provides fs,exists and fs.existsSync by wrapping fs.access and fs.accessSync",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gildean/fsexists.git"
+  },
+  "keywords": [
+    "fs.exists",
+    "exists",
+    "fs",
+    "fs.existsSync",
+    "existsSync"
+  ],
+  "author": "Olli Kankare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gildean/fsexists/issues"
+  },
+  "homepage": "https://github.com/gildean/fsexists#readme"
+}
